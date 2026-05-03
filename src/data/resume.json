@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "SUSIL SETHI",
+    "title": "Software Developer",
+    "location": "Bhubaneswar, Odisha",
+    "email": "susilsethi570@gmail.com",
+    "phone": "8144761173",
+    "links": [
+      "github.com//SUSIL570",
+      "www.linkedin.com/in/susil-sethi-643312258",
+      "resplendent-treacle-6bdca3.netlify.app/"
+    ],
+    "summary": "Highly motivated Java developer with 6 months of experience, seeking to leverage skills in OOP, web development, and problem-solving to drive innovation and deliver quality solutions."
+  },
+  "experience": [
+    {
+      "company": "Interface Software Solution",
+      "role": "Java Full Stack Developer Internship(6 Month)",
+      "dates": "Mar, 2023 - Aug, 2023",
+      "location": "",
+      "bullets": [
+        "Interface Software Solution offers innovative development tools and components for various platforms, empowering developers to create cutting-edge applications and streamline development processes.",
+        "- Developed multiple web applications using Java, Spring Boot, and Hibernate.",
+        "- Designed and implemented responsive UI/UX using HTML, CSS, and JavaScript.",
+        "- Created and executed 50+ JUnit test cases for robust quality assurance.",
+        "- Implemented RESTful APIs for seamless data exchange.",
+        "- Collaborated with team members to deliver projects on time, demonstrating strong teamwork and communication skills."
+      ]
+    }
+  ],
+  "achievements": [
+    { "metric": "99.9%", "context": "achieved uptime with a secure payment gateway integration" },
+    { "metric": "30%", "context": "improvement in transaction processing speed through optimized database queries" },
+    { "metric": "100+", "context": "concurrent users supported by developed scalable architectures" },
+    { "metric": "25%", "context": "increase in user adoption through intuitive interface design" },
+    { "metric": "30%", "context": "improvement in task management efficiency via task prioritization" },
+    { "metric": "25%", "context": "reduction in task overdue rates utilizing notification systems" },
+    { "metric": "90%", "context": "user satisfaction rate achieved on task manager interface" }
+  ],
+  "projects": [
+    {
+      "title": "E-Payment System",
+      "dates": "Jun, 2023 - Aug, 2023",
+      "stack": ["Java", "Spring Boot", "Hibernate"],
+      "bullets": [
+        "Designed and developed an E-Payment System using Java, Spring Boot, and Hibernate, enabling users to make online payments, manage payment methods, and track transactions, with a secure and scalable architecture.",
+        "- Designed and implemented a secure payment gateway integration with 99.9% uptime.",
+        "- Improved transaction processing speed by 30% through optimized database queries.",
+        "- Developed a scalable architecture supporting 100+ concurrent users.",
+        "- Implemented robust security measures to prevent fraud and ensure PCI-DSS compliance.",
+        "- Achieved a 25% increase in user adoption through intuitive and user-friendly interface design."
+      ],
+      "links": []
+    },
+    {
+      "title": "Task Management System",
+      "dates": "",
+      "stack": ["Java", "Spring Boot", "MySQL"],
+      "bullets": [
+        "Designed and developed a task management system using Java, Spring Boot, and MySQL, enabling teams to prioritize, track, and collaborate on tasks efficiently, with features like real-time commenting and notification systems.",
+        "- Improved task management efficiency by 30% through task prioritization.",
+        "- Enhanced collaboration with a real-time commenting system.",
+        "- Reduced task overdue rates by 25% with a notification system.",
+        "- Designed scalable architecture supporting 100+ concurrent users.",
+        "- Created a user-friendly interface with a 90% user satisfaction rate."
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    { "group": "Technical Skills", "items": ["Java", "Spring Boot", "Hibernate", "C++", "Data structure", "Cloud", "SQL", "Bootstrap", "JavaScript"] },
+    { "group": "Soft Skills", "items": ["Collaboration", "Problem-solving", "Communication", "Time management", "Result-oriented"] },
+    { "group": "Additional Skills", "items": ["Public Speaking", "Writing", "Research"] },
+    { "group": "Languages", "items": ["English", "Hindi"] }
+  ],
+  "education": [
+    { "degree": "Master of Computer Application", "institution": "GEC Autonomous College", "dates": "Jun, 2023 - Apr, 2025" },
+    { "degree": "Bachelor of Computer Application", "institution": "Utkala University", "dates": "Aug, 2020 - May, 2023" }
+  ],
+  "certifications": [
+    "Certified Web Developer",
+    "Certified Java Full Stack Developer"
+  ],
+  "awards": [],
+  "extra": [
+    "Created using https://atsresume.vercel.app/"
+  ]
+}
